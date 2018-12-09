@@ -17,3 +17,4 @@ if(yes || no)
     console.log('yes or no  NO ' + no);
 }
 
+let asd = 'dsa';
